@@ -2,7 +2,7 @@
 
 CREATE DATABASE IF NOT EXIST videogames;
 
-USE DATABASE videogames;
+USE videogames;
 
 CREATE TABLE editors (
     id INT AUTO_INCREMENT PRIMARY KEY,
